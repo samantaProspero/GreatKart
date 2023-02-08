@@ -1,0 +1,10 @@
+.idea
+*.sqlite3
+env/
+venv/
+.history
+.vscode
+*__pycache__
+staticfiles
+media
+.env
